@@ -5,6 +5,7 @@ export default function Sample() {
        <h4>Action Button Test</h4>
        <ActionButton text="My Action" />
       <div className="bg-slate-500 p-4 mt-4">
+        <h1>Here are some counters!</h1> 
          <h4>Counter 1</h4>
          <Counter initialCount={4} />
        </div>
