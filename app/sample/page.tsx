@@ -11,6 +11,6 @@ export default function Sample() {
        </div>
        <div className="bg-slate-700 p-4 mt-4">
          <h4>Counter 2</h4>
-         <Counter initialCount={104} />
+         <Counter initialCount={106} />
        </div>
 </main>);}
